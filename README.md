@@ -1,8 +1,13 @@
 <h1>Hi there! My name is Chris!</h1>
 
 <h2>Home Lab Projects:</h2>
-[Active Directory Home Lab]
-[Other Stuff]
+Active Directory Home Lab
+<br/>
+Other Stuff
+
+<h2>Certifications:</h2>
+CompTIA A+ Certifcation
+<br/>
 
 <!--
 **cdouglas8899/cdouglas8899** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
